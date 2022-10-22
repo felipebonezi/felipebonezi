@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Head of Tech and Principal Software Engineer.</h3>
 
 - 🌱 I’m currently learning **how to develop high-scale distributed systems**
-
 - 💬 Ask me about **java, scala, kotlin, play!, spring boot, flutter, typescript, nestjs, psql, aws, or anything you want to**
+- 📫 Reach me out on: felipebonezi@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipebonezi&label=Profile%20views&color=0e75b6&style=flat" alt="felipebonezi" /> </p>
 <h3 align="left">Connect with me:</h3>
